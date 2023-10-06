@@ -6,7 +6,7 @@ Code for our paper _Generating Less Certain Adversarial Examples Improves Robust
 
 ## News
 
-Oct. 6, 2023 - Our code is released.
+Oct. 6, 2023 - We created this repo and our code will be released soon.
 
 ***
 
