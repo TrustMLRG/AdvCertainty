@@ -8,6 +8,8 @@ Code for our paper _Generating Less Certain Adversarial Examples Improves Robust
 
 Oct. 6, 2023 - We created this repo and our code will be released soon.
 
+Oct. 7, 2023 - We uploaded the codes of EDAC for CIFAR-10 and the evaluation by AutoAttack.
+
 ***
 
 ## Our Code (To Be Released Soon)
@@ -18,9 +20,13 @@ Our implementations of EDAC-based adversarial training (AT-EDAC) are ``./at_edac
 
 ### Usage
 
-PreActResNet-18 on CIFAR-10:    ``python at_edac_cifar10.py --model PreActResNet18``
+To train PreActResNet-18 on CIFAR-10: ``python at_edac_cifar10.py --model PreActResNet18``
 
-WideResNet-34-10 on CIFAR-10:   ``python at_edac_cfar10.py --model WideResNet``
+To train WideResNet-34-10 on CIFAR-10: ``python at_edac_cfar10.py --model WideResNet``
+
+To evaluate PreActResNet-18 on CIFAR-10: ``python eval_autoattack.py --arch PreActResNet18 --data CIFAR10``
+
+To evaluate WideResNet-34-10 on CIFAR-10: ``python eval_autoattack.py --arch WideResNet --data CIFAR10``
 
 ### Trained Model
 
