@@ -58,7 +58,7 @@ if __name__ == '__main__':
     parser.add_argument('--checkpoint', type=str, default='./checkpoints/')
     parser.add_argument('--save_dir', type=str, default='./adv_inputs/')
     parser.add_argument('--log_path', type=str, default='./evals/')
-    parser.add_argument('--filename', type=str, default='cifar_model_fpp_PreActResNet18_0.3')
+    parser.add_argument('--filename', type=str, default='at_edac_cifar10_PreActResNet18_0.3')
     parser.add_argument('--epoch', type=str, default='best', choices=['best', '199'])
     args = parser.parse_args()
 
