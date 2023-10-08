@@ -16,7 +16,7 @@ Oct. 7, 2023 - We uploaded the codes of the EDAC-based adversarial training on C
 
 To improve robust generalization, we propose a novel **E**xtragradient-type method to explicitly **D**ecrease **A**dversarial **C**ertainty, i.e., **EDAC**.
 
-Our implementations of EDAC-based adversarial training (AT-EDAC) are ``./at_edac_cifar10.py``, ``./at_edac_cifar100.py``, and ``./at_edac_svhn.py``, repectively for the datasets of [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html), [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html), and [SVHN](http://ufldl.stanford.edu/housenumbers/).
+Our implementation of EDAC-based adversarial training (AT-EDAC) on CIFAR-10 is ``./at_edac_cifar10.py``.
 
 ### Usage
 
