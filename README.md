@@ -8,7 +8,7 @@ Code for our paper _Generating Less Certain Adversarial Examples Improves Robust
 
 Oct. 6, 2023 - We created this repo and our code will be released soon.
 
-Oct. 7, 2023 - We uploaded the codes of EDAC for CIFAR-10 and the evaluation by AutoAttack.
+Oct. 7, 2023 - We uploaded the codes of the EDAC-based adversarial training on CIFAR-10 and the evaluation by AutoAttack.
 
 ***
 
