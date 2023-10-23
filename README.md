@@ -22,7 +22,7 @@ Recent studies have shown that deep neural networks are vulnerable to adversaria
 
 To improve robust generalization, we propose a novel **E**xtragradient-type method to explicitly **D**ecrease **A**dversarial **C**ertainty, i.e., **EDAC**.
 
-Our implementations of EDAC-based adversarial training (AT-EDAC) on CIFAR-10 is ``./at_edac_cifar10.py``, and the evaluation by AutoAttack is ``./eval_autoattack.py''.
+Our implementations of EDAC-based adversarial training (AT-EDAC) on CIFAR-10 is ``./at_edac_cifar10.py``, and the evaluation by AutoAttack is ``./eval_autoattack.py``.
 
 ### Usage
 
