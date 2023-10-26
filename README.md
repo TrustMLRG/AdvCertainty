@@ -26,13 +26,13 @@ Our implementations of EDAC-based adversarial training (AT-EDAC) on CIFAR-10 is 
 
 ### Usage
 
-To train PreActResNet-18-based AT_EDAC on CIFAR-10: ``python at_edac_cifar10.py --model PreActResNet18``
+To train AT-EDAC on CIFAR-10: ``python at_edac_cifar10.py --model {OnWhichModelArchitecture}``
 
-To train WideResNet-34-10-based AT_EDAC on CIFAR-10: ``python at_edac_cfar10.py --model WideResNet``
+To train TRADES-EDAC on CIFAR-10: ``python trades_edac_cifar10.py --model {OnWhichModelArchitecture}``
 
-To evaluate PreActResNet-18 on CIFAR-10: ``python eval_autoattack.py --arch PreActResNet18 --data CIFAR10``
+To train MART-EDAC on CIFAR-10: ``python mart_edac_cifar10.py --model {OnWhichModelArchitecture}``
 
-To evaluate WideResNet-34-10 on CIFAR-10: ``python eval_autoattack.py --arch WideResNet --data CIFAR10``
+To evaluate on CIFAR-10: ``python eval_autoattack.py --arch {OnWhichModelArchitecture} --data CIFAR10``
 
 ### Trained Model
 
