@@ -42,6 +42,8 @@ The PreActResNet-18 trained by AT-EDAC on CIFAR-10: [https://drive.google.com/fi
 
 The WideResNet-34-10 trained by AT-EDAC on CIFAR-10: [https://drive.google.com/file/d/1yMm_WGLz53ka6rn0x0SgqNTD9fYJxL-Q/view?usp=sharing](https://drive.google.com/file/d/1yMm_WGLz53ka6rn0x0SgqNTD9fYJxL-Q/view?usp=sharing).
 
+The WideResNet-34-10 trained by TRADES-EDAC on CIFAR-10: [https://drive.google.com/file/d/1jpKOqoOpVi7yGvDGnaH4Q3xP5QDLfzrE/view?usp=sharing](https://drive.google.com/file/d/1jpKOqoOpVi7yGvDGnaH4Q3xP5QDLfzrE/view?usp=sharing).
+
 ***
 
 ## Reference Code
