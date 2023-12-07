@@ -63,5 +63,5 @@ The WideResNet-34-10 trained by TRADES-EDAC on CIFAR-10: [https://drive.google.c
 ## Reference Code
 1. Robust Overfitting: [https://github.com/locuslab/robust_overfitting](https://github.com/locuslab/robust_overfitting)
 2. TRADES: [https://github.com/yaodongyu/TRADES](https://github.com/yaodongyu/TRADES)
-3. MART: [https://github.com/YisenWang/MART/tree/master](https://github.com/YisenWang/MART/tree/master)
+3. MART: [https://github.com/YisenWang/MART/tree/master](https://github.com/YisenWang/MART/)
 4. AutoAttack: [https://github.com/fra31/auto-attack](https://github.com/fra31/auto-attack)
