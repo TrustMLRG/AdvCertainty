@@ -30,13 +30,25 @@ Our implementations of EDAC-based adversarial training (AT-EDAC) on CIFAR-10 is 
 
 ### Usage
 
-To train AT-EDAC on CIFAR-10: ``python at_edac_cifar10.py --model {OnWhichModelArchitecture}``
+To train AT-EDAC on CIFAR-10:
+```text
+python at_edac_cifar10.py --model {OnWhichModelArchitecture}
+```
 
-To train TRADES-EDAC on CIFAR-10: ``python trades_edac_cifar10.py --model {OnWhichModelArchitecture}``
+To train TRADES-EDAC on CIFAR-10:
+```text
+python trades_edac_cifar10.py --model {OnWhichModelArchitecture}
+```
 
-To train MART-EDAC on CIFAR-10: ``python mart_edac_cifar10.py --model {OnWhichModelArchitecture}``
+To train MART-EDAC on CIFAR-10:
+```text
+python mart_edac_cifar10.py --model {OnWhichModelArchitecture}
+```
 
-To evaluate on CIFAR-10: ``python eval_autoattack.py --arch {OnWhichModelArchitecture} --data CIFAR10``
+To evaluate on CIFAR-10:
+```text
+python eval_autoattack.py --arch {OnWhichModelArchitecture} --data CIFAR10
+```
 
 ### Trained Model
 
