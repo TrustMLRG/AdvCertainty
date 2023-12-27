@@ -58,6 +58,8 @@ The WideResNet-34-10 trained by AT-EDAC on CIFAR-10: [https://drive.google.com/f
 
 The WideResNet-34-10 trained by TRADES-EDAC on CIFAR-10: [https://drive.google.com/file/d/1jpKOqoOpVi7yGvDGnaH4Q3xP5QDLfzrE/view?usp=sharing](https://drive.google.com/file/d/1jpKOqoOpVi7yGvDGnaH4Q3xP5QDLfzrE/view?usp=sharing).
 
+The WideResNet-34-10 trained by MART-EDAC on CIFAR-10: [https://drive.google.com/file/d/1TSRx8TTVGS0XtELPCg2jP-2TH34h_IPl/view?usp=sharing](https://drive.google.com/file/d/1TSRx8TTVGS0XtELPCg2jP-2TH34h_IPl/view?usp=sharing).
+
 ***
 
 ## Reference Code
