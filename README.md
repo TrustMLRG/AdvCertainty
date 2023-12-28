@@ -14,6 +14,8 @@ Oct. 26, 2023 - We uploaded the codes of the TRADES-EDAC and MART-EDAC.
 
 Dec. 6, 2023 - We uploaded the pre-trained WideResNet-34-10 model of TRADES-EDAC on CIFAR-10.
 
+Dec. 27, 2023 - We uploaded the pre-trained WideResNet-34-10 model of MART-EDAC on CIFAR-10.
+
 ***
 
 ## Abstract
