@@ -54,7 +54,7 @@ parser.add_argument('--stepsize', default=0.3, type=float)
 args = parser.parse_args()
 
 # settings
-model_dir = f'./checkpoints/mart_edac_cifar10_{args.model}_{str(args.stepsize)}'
+model_dir = f'./checkpoints/dac_mart_cifar10_{args.model}_{str(args.stepsize)}'
 if not os.path.exists(model_dir):
     os.makedirs(model_dir)
     
@@ -93,7 +93,7 @@ def train(args, model, device, train_loader, optimizer, epoch):
         theta_t -> theta_(t+0.5)
         """
 
-        loss = edac_loss(model=model,
+        loss = dac_loss(model=model,
                            x_natural=data,
                            y=target,
                            optimizer=optimizer,
