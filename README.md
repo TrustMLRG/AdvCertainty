@@ -1,10 +1,8 @@
 # Generating Less Certain Adversarial Examples Improves Robust Generalization
 
-Code for our paper _Generating Less Certain Adversarial Examples Improves Robust Generalization_ by [Minxing Zhang](https://scholar.google.com/citations?user=wsSLja0AAAAJ&hl=en&oi=ao), [Michael Backes](https://scholar.google.com/citations?user=ZVS3KOEAAAAJ&hl=en&oi=ao), and [Xiao Zhang](https://scholar.google.com/citations?user=L-lz7CUAAAAJ&hl=en&oi=ao).
+Code for our paper _Generating Less Certain Adversarial Examples Improves Robust Generalization_ by [Minxing Zhang](https://scholar.google.com/citations?user=wsSLja0AAAAJ&hl=en&oi=ao), [Michael Backes](https://scholar.google.com/citations?user=ZVS3KOEAAAAJ&hl=en&oi=ao), and [Xiao Zhang](https://scholar.google.com/citations?user=L-lz7CUAAAAJ&hl=en&oi=ao). In this work, to improve robust generalization, we propose a general method to explicitly **D**ecrease **A**dversarial **C**ertainty, i.e., **DAC**.
 
 ***
-
-To improve robust generalization, we propose a general method to explicitly **D**ecrease **A**dversarial **C**ertainty, i.e., **DAC**.
 
 ### Abstract
 
