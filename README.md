@@ -18,10 +18,6 @@ Oct. 7, 2023 - We uploaded the codes of the DAC-AT on CIFAR-10 and the evaluatio
 
 Oct. 26, 2023 - We uploaded the codes of the DAC-TRADES and DAC-MART.
 
-Dec. 6, 2023 - We uploaded the pre-trained WideResNet-34-10 model of DAC-TRADES on CIFAR-10.
-
-Dec. 27, 2023 - We uploaded the pre-trained WideResNet-34-10 model of DAC-MART on CIFAR-10.
-
 ***
 
 ### Usage
@@ -51,10 +47,6 @@ python eval_autoattack.py --arch {OnWhichModelArchitecture} --data CIFAR10
 The PreActResNet-18 trained by DAC-AT on CIFAR-10: [https://drive.google.com/file/d/1xC3kAMY5tHWSF3F2NNHRyPt4FerHYX1l/view?usp=sharing](https://drive.google.com/file/d/1xC3kAMY5tHWSF3F2NNHRyPt4FerHYX1l/view?usp=sharing).
 
 The WideResNet-34-10 trained by DAC-AT on CIFAR-10: [https://drive.google.com/file/d/1yMm_WGLz53ka6rn0x0SgqNTD9fYJxL-Q/view?usp=sharing](https://drive.google.com/file/d/1yMm_WGLz53ka6rn0x0SgqNTD9fYJxL-Q/view?usp=sharing).
-
-The WideResNet-34-10 trained by DAC-TRADES on CIFAR-10: [https://drive.google.com/file/d/1jpKOqoOpVi7yGvDGnaH4Q3xP5QDLfzrE/view?usp=sharing](https://drive.google.com/file/d/1jpKOqoOpVi7yGvDGnaH4Q3xP5QDLfzrE/view?usp=sharing).
-
-The WideResNet-34-10 trained by DAC-MART on CIFAR-10: [https://drive.google.com/file/d/1TSRx8TTVGS0XtELPCg2jP-2TH34h_IPl/view?usp=sharing](https://drive.google.com/file/d/1TSRx8TTVGS0XtELPCg2jP-2TH34h_IPl/view?usp=sharing).
 
 ***
 
