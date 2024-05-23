@@ -26,19 +26,19 @@ Dec. 27, 2023 - We uploaded the pre-trained WideResNet-34-10 model of DAC-MART o
 
 ### Usage
 
-To train AT-EDAC on CIFAR-10:
+To train DAC-AT on CIFAR-10:
 ```text
-python at_edac_cifar10.py --model {OnWhichModelArchitecture}
+python dac_at_cifar10.py --model {OnWhichModelArchitecture}
 ```
 
-To train TRADES-EDAC on CIFAR-10:
+To train DAC-TRADES on CIFAR-10:
 ```text
-python trades_edac_cifar10.py --model {OnWhichModelArchitecture}
+python dac_trades_cifar10.py --model {OnWhichModelArchitecture}
 ```
 
-To train MART-EDAC on CIFAR-10:
+To train DAC-MART on CIFAR-10:
 ```text
-python mart_edac_cifar10.py --model {OnWhichModelArchitecture}
+python dac_mart_cifar10.py --model {OnWhichModelArchitecture}
 ```
 
 To evaluate on CIFAR-10:
@@ -48,13 +48,13 @@ python eval_autoattack.py --arch {OnWhichModelArchitecture} --data CIFAR10
 
 ### Trained Model
 
-The PreActResNet-18 trained by AT-EDAC on CIFAR-10: [https://drive.google.com/file/d/1xC3kAMY5tHWSF3F2NNHRyPt4FerHYX1l/view?usp=sharing](https://drive.google.com/file/d/1xC3kAMY5tHWSF3F2NNHRyPt4FerHYX1l/view?usp=sharing).
+The PreActResNet-18 trained by DAC-AT on CIFAR-10: [https://drive.google.com/file/d/1xC3kAMY5tHWSF3F2NNHRyPt4FerHYX1l/view?usp=sharing](https://drive.google.com/file/d/1xC3kAMY5tHWSF3F2NNHRyPt4FerHYX1l/view?usp=sharing).
 
-The WideResNet-34-10 trained by AT-EDAC on CIFAR-10: [https://drive.google.com/file/d/1yMm_WGLz53ka6rn0x0SgqNTD9fYJxL-Q/view?usp=sharing](https://drive.google.com/file/d/1yMm_WGLz53ka6rn0x0SgqNTD9fYJxL-Q/view?usp=sharing).
+The WideResNet-34-10 trained by DAC-AT on CIFAR-10: [https://drive.google.com/file/d/1yMm_WGLz53ka6rn0x0SgqNTD9fYJxL-Q/view?usp=sharing](https://drive.google.com/file/d/1yMm_WGLz53ka6rn0x0SgqNTD9fYJxL-Q/view?usp=sharing).
 
-The WideResNet-34-10 trained by TRADES-EDAC on CIFAR-10: [https://drive.google.com/file/d/1jpKOqoOpVi7yGvDGnaH4Q3xP5QDLfzrE/view?usp=sharing](https://drive.google.com/file/d/1jpKOqoOpVi7yGvDGnaH4Q3xP5QDLfzrE/view?usp=sharing).
+The WideResNet-34-10 trained by DAC-TRADES on CIFAR-10: [https://drive.google.com/file/d/1jpKOqoOpVi7yGvDGnaH4Q3xP5QDLfzrE/view?usp=sharing](https://drive.google.com/file/d/1jpKOqoOpVi7yGvDGnaH4Q3xP5QDLfzrE/view?usp=sharing).
 
-The WideResNet-34-10 trained by MART-EDAC on CIFAR-10: [https://drive.google.com/file/d/1TSRx8TTVGS0XtELPCg2jP-2TH34h_IPl/view?usp=sharing](https://drive.google.com/file/d/1TSRx8TTVGS0XtELPCg2jP-2TH34h_IPl/view?usp=sharing).
+The WideResNet-34-10 trained by DAC-MART on CIFAR-10: [https://drive.google.com/file/d/1TSRx8TTVGS0XtELPCg2jP-2TH34h_IPl/view?usp=sharing](https://drive.google.com/file/d/1TSRx8TTVGS0XtELPCg2jP-2TH34h_IPl/view?usp=sharing).
 
 ***
 
