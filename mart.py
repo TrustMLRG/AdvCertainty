@@ -56,7 +56,7 @@ def mart_loss(model,
 
     return loss
 
-def edac_loss(model,
+def dac_loss(model,
               x_natural,
               y,
               optimizer,
